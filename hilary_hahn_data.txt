@@ -1,0 +1,30 @@
+﻿Piano Trio, K. 442: I
+0.0811
+17
+Piano Trio, K. 442: II
+0.129
+15
+Piano Trio, K. 442: III 
+0.111
+15
+Piano Trio, K. 496: I
+0.209
+14
+Piano Trio, K. 496: II
+0.215
+14
+Piano Trio, K. 496: III
+0.137
+13
+Heart
+0.164
+15
+Immensity
+0.286
+12
+Love
+0.139
+12
+Art
+0.343
+11
